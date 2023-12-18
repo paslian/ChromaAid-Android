@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">ChromaAid</string>
+
+
+    <string name="desc_logo">ChromaAid</string>
+    <string name="settings">Settings</string>
+    <string name="camera">Camera</string>
+    <string name="detect">Detect</string>
+    <string name="set_position">Set Position</string>
+    <string name="dominant_color">Dominant Color: %1$s</string>
+    <string name="copied_text">Copied %1$s</string>
+    <string name="delete_img">Delete Image</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Are you sure to delete this photo ?</string>
+    <string name="yes">Yes</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="success_delete">Successfully deleted</string>
+    <string name="detect_img">Detect Dominant Color</string>
+    <string name="desc_back">Back</string>
+    <string name="desc_img">Image Asset</string>
+    <string name="desc_circle">Circle</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_Person">Person</string>
+    <string name="welcome_1">Hello Chromateers,</string>
+    <string name="welcome_2"> what bright colors are we scanning today in the world around you?</string>
+    <string name="person_welcome"> Color blindness consists of 3 types, which one are you?</string>
+    <string name="Protanopia"> Protanopia</string>
+    <string name="Deuteranopia"> Deuteranopia</string>
+    <string name="Tritanopia"> Tritanopia</string>
+    <string name="type_welcome_1"> WHAT IS </string>
+    <string name="Protanopia_welcome_1"> PROTANOPIA? </string>
+    <string name="protanopia_ans_1">  is caused by a lack or abnormality of red cone cells in the eye. </string>
+    <string name="protanopia_ans_2">  People with protanopia cannot see</string>
+    <string name="deuteranopia_welcome_1"> DEUTERANOPIA? </string>
+    <string name="deuteranopia_ans_1">   is caused by an abnormality or lack of green cone cells in the eye.  </string>
+    <string name="deuteranopia_ans_2">  Deuteranopia sufferers lose the ability to see</string>
+    <string name="tritanopia_welcome_1"> TRITANOPIA? </string>
+    <string name="tritanopia_ans_1">   is caused by an abnormality or lack of blue cone cells in the eye.  </string>
+    <string name="tritanopia_ans_2">  Tritanopia is a rare condition in which a person cannot see the color </string>
+    <string name="color_red">red</string>
+    <string name="color_green">green</string>
+    <string name="color_blue">blue</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="english">English</string>
+    <string name="characteristics_title">Characteristics:</string>
+    <string name="characteristics_pro_1"> People with protanopia cannot see red properly.</string>
+    <string name="characteristics_pro_2"> The red color looks very dark, almost black or dark brown.</string>
+    <string name="characteristics_pro_3"> Greens and blues may appear brighter or more intense than they should.</string>
+    <string name="characteristics_deu_1"> Deuteranopia sufferers cannot see green properly.</string>
+    <string name="characteristics_deu_2"> Green and red colors tend to look similar or are difficult to differentiate.</string>
+    <string name="characteristics_deu_3"> People with deuteranopia may see the world on a blue and yellow color scale.</string>
+    <string name="characteristics_tri_1"> Tritanopia is less common and causes difficulty in seeing the color blue.</string>
+    <string name="characteristics_tri_2"> People with tritanopia may see the world on a red and green color scale.</string>
+    <string name="characteristics_tri_3"> Blue can appear as a very pale or white color.</string>
+    <string name="title_activity_scan_screen">ScanScreen</string>
+
+    <string name="pref_dark_title">Dark mode</string>
+    <string name="pref_key_dark" translatable="false">key_dark_mode</string>
+    <string name="pref_dark_follow_system" translatable="false">follow_system</string>
+    <string name="pref_dark_on" translatable="false">on</string>
+    <string name="pref_dark_off" translatable="false">off</string>
+    <string name="dark_mode_auto">Automatic</string>
+    <string name="dark_mode_on">Dark mode</string>
+    <string name="dark_mode_off">Light mode</string>
+
+    <!-- Language Preferences -->
+    <string name="pref_language_default">Default</string>
+    <string name="pref_key_language">language_preference</string>
+    <string name="pref_language_title">Language</string>
+    <string name="pref_language_summary">Current Language: %s</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="no_data">No Data</string>
+
+
+    <string name="camera_permission_required">The camera permission is required</string>
+    <string name="use_case_binding_failed">Use case binding failed</string>
+    <string name="image_saved_message">The image has been saved in %1$s</string>
+    <string name="error_taking_photo">Error taking photo</string>
+    <string name="request_permission">RequestPermission</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="have_not_picked_image">You haven\'t picked Image</string>
+    <string name="message">message</string>
+
+
+</resources>

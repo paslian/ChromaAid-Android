@@ -272,7 +272,7 @@ class DetectImgGalleryActivity : AppCompatActivity() {
         if (uriString != null){
             uri = Uri.parse(uriString)
             bitmap = MediaStore.Images.Media.getBitmap(this.contentResolver, uri)
-            Glide.with(this).load(uri).override(1000, 1000).into(photo)
+            Glide.with(this).load(uri).into(photo)
             deleteBtn.visibility = View.INVISIBLE
         }else{
             val photoList = getPhotoList()
